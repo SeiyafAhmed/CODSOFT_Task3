@@ -1,4 +1,4 @@
-# CODSOFT TASK 3: PASSWORD GENERATOR
+# PASSWORD GENERATOR
 ## Overview
 The Password Generator is a Python application designed to create secure passwords with customizable options. Users can easily specify password length, and choose to include uppercase letters, numbers, and symbols, ensuring passwords meet their security requirements.
 
@@ -17,7 +17,7 @@ The Password Generator is a Python application designed to create secure passwor
 
 1. Clone the repository:
     ```
-    git clone https://github.com/SeiyafAhmed/CODSOFT_Task3.git
+    git clone https://github.com/SeiyafAhmed/password_generator.git
     ```
 
 2. Install the required libraries:
