@@ -17,7 +17,7 @@ The Password Generator is a Python application designed to create secure passwor
 
 1. Clone the repository:
     ```
-    git clone https://github.com/SeiyafAhmed/password_generator.git
+    git clone https://github.com/SeiyafAhmed/Password-Generator.git
     ```
 
 2. Install the required libraries:
@@ -76,7 +76,7 @@ python main.py
 
 
 License
-This project is licensed under the MIT License. See the -[LICENSE](https://github.com/SeiyafAhmed/CODSOFT_Task3/blob/main/LICENSE) file for details. 
+This project is licensed under the MIT License. See the -[LICENSE](https://github.com/SeiyafAhmed/Password-Generator/blob/main/LICENSE) file for details. 
 
 Contact
 For any questions or suggestions, please [contact us](mailto:seiyafahmed.ofc@gmail.com).
